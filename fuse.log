@@ -1,0 +1,21 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Borys/Desktop/automat_napoje 208525/automat/tesicik_isim_beh.exe" -prj "C:/Users/Borys/Desktop/automat_napoje 208525/automat/tesicik_beh.prj" "work.tesicik" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Borys/Desktop/automat_napoje 208525/automat/automat.vhd" into library work
+Parsing VHDL file "C:/Users/Borys/Desktop/automat_napoje 208525/automat/tesicik.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity automat [automat_default]
+Compiling architecture behavior of entity tesicik
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable C:/Users/Borys/Desktop/automat_napoje 208525/automat/tesicik_isim_beh.exe
+Fuse Memory Usage: 35412 KB
+Fuse CPU Usage: 1154 ms

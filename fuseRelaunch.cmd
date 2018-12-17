@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Borys/Desktop/automat_napoje 208525/automat/tesicik_isim_beh.exe" -prj "C:/Users/Borys/Desktop/automat_napoje 208525/automat/tesicik_beh.prj" "work.tesicik" 
